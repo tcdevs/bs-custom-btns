@@ -8,7 +8,7 @@ A set of custom Bootstrap button Css classes to change the colors of the default
 Howto use it
 -------------
 
-Add/import the css file to your own bootstrap and use the new clas names togehter with the standard "btn" classes.
+Add/import the css file to your own bootstrap and use the new class name(s) together with the standard "btn" classes.
 
 Developers
 -------------
